@@ -1,6 +1,9 @@
 
 ## Description
 
+## [pm2-logrotate-legacy-nodejs](https://github.com/rapidia/pm2-logrotate-legacy-nodejs) is forked from [pm2-logrotate](https://github.com/keymetrics/pm2-logrotate)
+## [warning!!] this module is only for whom uses legacy nodejs<8.
+
 PM2 module to automatically rotate logs of processes managed by PM2.
 
 ## Install
